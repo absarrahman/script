@@ -9,7 +9,7 @@ git clone https://github.com/irvin016/android_hardware_qcom_media -b o-mr1 hardw
 git clone https://github.com/irvin016/android_hardware_qcom_display -b o-mr1 hardware/qcom/display-caf/msm8952
 git clone https://github.com/LineageOS/android_packages_resources_devicesettings -b lineage-15.0 packages/resources/devicesettings
 git clone https://github.com/LineageOS/android_external_bson -b cm-14.1 external/bson
-git clone https://github.com/irvin016/android_external_ant-wireless_antradio-library -b staging/lineage-15.1
- external_ant-wireless_antradio-library
+git clone https://github.com/irvin016/android_external_ant-wireless_antradio-library -b staging/lineage-15.1 external_ant-wireless_antradio-library
+
 
 
